@@ -6,6 +6,9 @@ In every major Linux distribution, Python should be already installed and workin
 
 ### Use PATH in the Installer
 
+**Download the Python Windows Installer from the official website**:
+- Avoid installing it as an App from MS Store.
+
 **Install Python with the "Add Python to PATH" Option**:
 - Ensure the checkbox for "Add Python to PATH" is checked during the installation process.
 
